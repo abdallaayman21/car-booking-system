@@ -1,0 +1,68 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "make": "Toyota",
+      "model": "Yaris",
+      "km_traveled": 65000,
+      "latitude": 21.599299119407746,
+      "longitude": 39.142463878359706,
+      "images": [
+        "https://i.ebayimg.com/images/g/vtoAAOSwiWlinad2/s-l800.webp",
+        "https://i.ebayimg.com/images/g/aAoAAOSwAUJinad2/s-l800.webp",
+        "https://i.ebayimg.com/images/g/HdkAAOSwU3pinad2/s-l800.webp",
+        "https://i.ebayimg.com/images/g/wj0AAOSwcVxinad2/s-l800.webp"
+      ],
+      "available_from": "2022-06-10T13:45:30",
+      "available_until": "2022-06-15T13:45:30"
+    },
+    {
+      "id": 2,
+      "make": "Toyota",
+      "model": "Camry",
+      "km_traveled": 105000,
+      "latitude": 21.7006420897312,
+      "longitude": 39.10856030285566,
+      "images": [
+        "https://i.ebayimg.com/images/g/ZEkAAOSwia5h4UIM/s-l800.webp",
+        "https://i.ebayimg.com/images/g/p4QAAOSwMhJh4UIM/s-l800.webp",
+        "https://i.ebayimg.com/images/g/RLEAAOSwudBh4UIM/s-l800.webp",
+        "https://i.ebayimg.com/images/g/qqsAAOSwEqlh4UIM/s-l800.webp"
+      ],
+      "available_from": "2022-06-10T10:00:00",
+      "available_until": "2022-06-11T17:00:00"
+    },
+    {
+      "id": 3,
+      "make": "Honda",
+      "model": "Civic",
+      "km_traveled": 65000,
+      "latitude": 21.599299119407746,
+      "longitude": 39.142463878359706,
+      "images": [
+        "https://i.ebayimg.com/images/g/QhAAAOSw4bhifhHq/s-l800.webp",
+        "https://i.ebayimg.com/images/g/A48AAOSwe0FifhHq/s-l800.webp",
+        "https://i.ebayimg.com/images/g/n58AAOSw9~RifhHq/s-l800.webp",
+        "https://i.ebayimg.com/images/g/txwAAOSwTCNifhHq/s-l800.webp"
+      ],
+      "available_from": "2022-06-11T08:00:00",
+      "available_until": "2022-06-20T08:00:00"
+    },
+    {
+      "id": 4,
+      "make": "Hyundai",
+      "model": "i10",
+      "km_traveled": 65000,
+      "latitude": 41.40338,
+      "longitude": 2.17403,
+      "images": [
+        "https://i.ebayimg.com/images/g/sAoAAOSwtmtimu7r/s-l800.webp",
+        "https://i.ebayimg.com/images/g/7ZUAAOSwFwZimu7r/s-l800.webp",
+        "https://i.ebayimg.com/images/g/BzIAAOSwVFdimu7s/s-l800.webp",
+        "https://i.ebayimg.com/images/g/SrkAAOSwo4Rimu7r/s-l800.webp"
+      ],
+      "available_from": "2022-05-01T09:30:00",
+      "available_until": "2022-05-05T09:30:00"
+    }
+  ]
+}

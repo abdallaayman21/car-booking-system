@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="138.127" height="136" viewBox="0 0 138.127 136">
+  <g id="Group_204" data-name="Group 204" transform="translate(-140.437 -482)">
+    <g id="checked" transform="translate(147.437 487)">
+      <circle id="Ellipse_19" data-name="Ellipse 19" cx="65.5" cy="65.5" r="65.5" transform="translate(0 0)" fill="#c5c5c5"/>
+      <path id="Path_390" data-name="Path 390" d="M188.8,207.843l33.712,33.712a65.52,65.52,0,0,0,48.6-63.288v-1.861L244.643,152Z" transform="translate(-139.989 -112.703)" fill="#c5c5c5"/>
+      <g id="Group_203" data-name="Group 203" transform="translate(22.027 32.368)">
+        <path id="Path_391" data-name="Path 391" d="M130.391,228.245a7.744,7.744,0,0,1,0,10.755l-6,6a7.744,7.744,0,0,1-10.755,0L87.372,218.524a7.744,7.744,0,0,1,0-10.755l6-6a7.744,7.744,0,0,1,10.755,0Z" transform="translate(-85.2 -180.365)" fill="#c5c5c5"/>
+        <path id="Path_392" data-name="Path 392" d="M212.073,127.372a7.744,7.744,0,0,1,10.755,0l6,6a7.744,7.744,0,0,1,0,10.755l-45.5,45.295a7.744,7.744,0,0,1-10.755,0l-6-6a7.744,7.744,0,0,1,0-10.755Z" transform="translate(-143.924 -125.2)" fill="#c5c5c5"/>
+      </g>
+    </g>
+    <g id="checked-2" data-name="checked" transform="translate(140.437 482)">
+      <circle id="Ellipse_19-2" data-name="Ellipse 19" cx="65.5" cy="65.5" r="65.5" transform="translate(0 0)" fill="#009d00"/>
+      <path id="Path_390-2" data-name="Path 390" d="M188.8,207.843l33.712,33.712a65.52,65.52,0,0,0,48.6-63.288v-1.861L244.643,152Z" transform="translate(-139.989 -112.703)" fill="#007600"/>
+      <g id="Group_203-2" data-name="Group 203" transform="translate(22.027 32.368)">
+        <path id="Path_391-2" data-name="Path 391" d="M130.391,228.245a7.744,7.744,0,0,1,0,10.755l-6,6a7.744,7.744,0,0,1-10.755,0L87.372,218.524a7.744,7.744,0,0,1,0-10.755l6-6a7.744,7.744,0,0,1,10.755,0Z" transform="translate(-85.2 -180.365)" fill="#fff"/>
+        <path id="Path_392-2" data-name="Path 392" d="M212.073,127.372a7.744,7.744,0,0,1,10.755,0l6,6a7.744,7.744,0,0,1,0,10.755l-45.5,45.295a7.744,7.744,0,0,1-10.755,0l-6-6a7.744,7.744,0,0,1,0-10.755Z" transform="translate(-143.924 -125.2)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
